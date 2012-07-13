@@ -1,1 +1,6 @@
+B
+B
+
+D
+C
 add str3
